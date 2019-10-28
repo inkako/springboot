@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.mengxuegu</groupId>
+    <artifactId>spring-boot</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>spring-boot-00-bill</module>
+        <module>spring-boot-01-hello</module>
+        <module>spring-boot-01-init-02</module>
+        <module>spring-boot-02-config</module>
+        <module>spring-boot-02-config-02</module>
+        <module>spring-boot-03-logging</module>
+        <module>spring-boot-04-web</module>
+        <module>spring-boot-05-bill</module>
+        <module>spring-boot-05-bill-back</module>
+        <module>spring-boot-06-servlet</module>
+        <module>spring-boot-07-tomcat</module>
+        <module>spring-boot-08-data-jdbc</module>
+        <module>spring-boot-08-data-mybatis</module>
+        <module>spring-boot-09-data-jpa</module>
+        <module>spring-boot-10-bill</module>
+        <module>spring-boot-11-task</module>
+        <module>spring-boot-12-mail</module>
+        <module>spring-boot-13-cache</module>
+    </modules>
+    <packaging>pom</packaging>
+
+</project>
